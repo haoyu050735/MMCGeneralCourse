@@ -23,6 +23,7 @@ function b07() {window.location.href="n02_di/b07.html";}
 function b08() {window.location.href="n02_di/b08.html";} 
 function b09() {window.location.href="n02_di/b09.html";} 
 function b10() {window.location.href="n02_di/b10.html";} 
+function b11() {window.location.href="n02_di/b11.html";} 
 function c01() {window.location.href="n03_ren/c01.html";} 
 function c02() {window.location.href="n03_ren/c02.html";} 
 function c03() {window.location.href="n03_ren/c03.html";} 
