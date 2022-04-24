@@ -35,6 +35,7 @@ function c08() {window.location.href="n03_ren/c08.html";}
 function c09() {window.location.href="n03_ren/c09.html";} 
 function c10() {window.location.href="n03_ren/c10.html";} 
 function c11() {window.location.href="n03_ren/c11.html";} 
+function c12() {window.location.href="n03_ren/c11.html";} 
 function d01() {window.location.href="n04_xin/d01.html";} 
 function d02() {window.location.href="n04_xin/d02.html";} 
 function d03() {window.location.href="n04_xin/d03.html";} 
