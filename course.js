@@ -55,6 +55,7 @@ function e03() {window.location.href="n05_xuanxiu/e03.html";}
 function e04() {window.location.href="n05_xuanxiu/e04.html";} 
 function e05() {window.location.href="n05_xuanxiu/e05.html";} 
 function e06() {window.location.href="n05_xuanxiu/e06.html";} 
+function e07() {window.location.href="n05_xuanxiu/e07.html";} 
 function f01() {window.location.href="n06_tiyu/f01.html";} 
 function f02() {window.location.href="n06_tiyu/f02.html";} 
 function f03() {window.location.href="n06_tiyu/f03.html";} 
