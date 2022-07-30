@@ -1,5 +1,5 @@
 function home() {window.location.href="../index.html";} 
-function tian() {window.location.href="01_tian.html";} 
+function tian() {window.location.href="../01_tian.html";} 
 function di() {window.location.href="02_di.html";} 
 function ren() {window.location.href="03_ren.html";} 
 function xin() {window.location.href="04_xin.html";} 
