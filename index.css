@@ -12,7 +12,8 @@ vertical-align: middle;
 
 .label_title {
 font-size: 25px; font-weight: bold;
-width: 500px;
+width:90%;
+max-width:500px;
 line-height: 24px;
 text-align: center;
 color: black;
@@ -29,7 +30,8 @@ border-style:solid;
 
 .label_info {
 font-size: 20px; font-weight: bold;
-width: 500px;
+width:90%;
+max-width:500px;
 text-align: center;
 color: black;
 background-color: #fddb69;
@@ -44,9 +46,10 @@ border-style:solid;
 }
 
 .index_choosebox {
-margin:5px auto;
-width: 500px;
-background-color: #e0e0e0;
+margin:auto;
+width:90%;
+max-width:500px;
+background-color:#E0E0E0;
 padding: 10px;
 border-radius:10px;
 border-width:3px;
@@ -58,7 +61,7 @@ border-style:solid;
 margin:auto;
 width:90%;
 max-width:500px;
-background-color: #E0E0E0;
+background-color:#E0E0E0;
 padding: 10px;
 border-radius:10px;
 border-width:3px;
@@ -75,6 +78,8 @@ vertical-align:top;
 
 }
 
+
+
 .btn_home {
 -webkit-appearance: none;
 -moz-appearance: none;
@@ -87,7 +92,7 @@ font-size: 20px;
 font-weight: bold;
 text-align: center;
 color: black;
-background-color: #7edcfc;
+background-color: #D5FFFF;
 border-radius:10px;
 padding: 10px;
 border-width:3px;
@@ -104,7 +109,7 @@ appearance: none;
 margin:10px;
 display:inline-block;
 vertical-align:top;
-width:142px;
+width:100px;
 font-size: 20px;
 font-weight: bold;
 text-align: center;
@@ -118,6 +123,8 @@ border-style:solid;
 cursor: pointer;
 box-shadow: 3px 3px 3px  #388E3C;
 }
+
+
 
 
 .label_contribution {
@@ -168,7 +175,8 @@ border-style:solid;
 
 .label_coder {
 font-size: 20px;
-width: 500px;
+width:90%;
+max-width:500px;
 line-height: 28px;
 text-align: center;
 color: black;
