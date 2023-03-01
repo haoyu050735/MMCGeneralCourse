@@ -13,7 +13,6 @@ function a11() {window.location.href="n01_tian/a11.html";}
 function a12() {window.location.href="n01_tian/a12.html";} 
 function a13() {window.location.href="n01_tian/a13.html";} 
 function a14() {window.location.href="n01_tian/a14.html";} 
-function Z99() {window.location.href="n01_tian/Z99.html";}
 function b01() {window.location.href="n02_di/b01.html";} 
 function b02() {window.location.href="n02_di/b02.html";} 
 function b03() {window.location.href="n02_di/b03.html";} 
