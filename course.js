@@ -76,6 +76,7 @@ function f06() {window.location.href="n06_tiyu/f06.html";}
 function f07() {window.location.href="n06_tiyu/f07.html";} 
 function f08() {window.location.href="n06_tiyu/f08.html";} 
 function f09() {window.location.href="n06_tiyu/f09.html";} 
+function f10() {window.location.href="n06_tiyu/f10.html";} 
 function g01() {window.location.href="n07_yuyan/g01.html";} 
 function g02() {window.location.href="n07_yuyan/g02.html";} 
 function g03() {window.location.href="n07_yuyan/g03.html";} 
